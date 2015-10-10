@@ -32,4 +32,5 @@ public class MazeGenerator : MonoBehaviour {
         return (tex.GetPixels(x, y, width, height));
 
     }
+
 }
